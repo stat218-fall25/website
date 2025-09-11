@@ -1,0 +1,55 @@
+---
+toc: false
+---
+
+## Meet Your Instructor
+
+Life science is complicated. As your professor, I know you already know this, and it's not my intention to teach you that. However, I am committed to giving you a glimpse into some of these complexities by integrating statistical concepts into life science topics. By the end of this course, I hope to increase your statistical literacy and data literacy. In the best-case scenario, I will support you in making sense of uncertainty in the (1) behavior of chemicals, (2) relationships among living organisms & communities of living organisms, and (3) physical processes that sustain most of the living systems through the use of statistics.
+
+:::: {.columns}
+
+::: {.column width="45%"}
+## Instructor
+
+
+```{=html}
+<img src="img/sinem.jpeg" alt="A headshot of a woman with curly, short, shoulder-length hair with green eyes."
+  style="width: 250px; height: 250px; border-radius: 100%; margin-top: 5px; border: 1px solid whitesmoke; padding: 5px;">
+
+```
+
+{{< fa volume-high >}} [Dr. Sinem Demirci](audio/how-to-pronounce-my-name.mp3) (she/her/hers)  
+{{< fa envelope >}} <a href = "mailto:sdemirci@calpoly.edu" target = blank>sdemirci@calpoly.edu</a>   
+{{< fa building >}} <a href = "https://maps.app.goo.gl/7dTPXc1jELP4gs297" target = blank> 025-213</a>
+ 
+### Office Hours:
+
+__Instructor's office hours:__  
+__Monday:__ 11:10 AM - 12:50 PM _(In-Office)_    
+__Wed:__ 2:10 PM - 3:50 PM on _(Zoom)_ <a href = "https://calpoly.zoom.us/j/85398849607" target = blank>{{< fa link >}}</a> 
+
+
+:::
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="45%"}
+
+ 
+## Grader  
+
+<br>   
+<br>    
+<br>   
+<br>   
+<br>      
+
+ 
+
+Chris Liu  
+{{< fa envelope >}} <a href = "mailto:cliu119@calpoly.edu">cliu119@calpoly.edu</a>   
+
+:::
+::::
