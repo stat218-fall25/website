@@ -147,11 +147,11 @@ __Online Resources:__ We will use <a href="https://www.rossmanchance.com/applets
     }
 
     .custom-table tr:nth-child(2) {
-      background-color: #f3e5f5; /* Light shade for 5% */
+      background-color: #e1bee7; /* Light shade for 10% */
     }
 
     .custom-table tr:nth-child(3) {
-      background-color: #e1bee7; /* Slightly darker for 10% */
+      background-color: #ce93d8; /* Medium shade for 15% */
     }
 
     .custom-table tr:nth-child(4) {
@@ -163,7 +163,7 @@ __Online Resources:__ We will use <a href="https://www.rossmanchance.com/applets
     }
 
     .custom-table tr:nth-child(6) {
-      background-color: #ba68c8; /* Darker shade for 25% */
+      background-color: #ce93d8; /* Medium shade for 15% */
     }
 
     .custom-table tr:nth-child(7) {
@@ -182,23 +182,23 @@ __Online Resources:__ We will use <a href="https://www.rossmanchance.com/applets
       <th>Percentage</th>
     </tr>
     <tr>
-      <td>Weekly Assignments (Individual)</td>
+      <td>Weekly Assignments (Individual, Take Home)</td>
       <td>10%</td>
     </tr>
     <tr>
-      <td>Midterm </td>
+      <td>Midterm 1 (Individual, In-class)</td>
       <td>15%</td>
     </tr>
     <tr>
-      <td>Project Presentation (Group)</td>
-      <td>15%</td>
-    </tr>
-    <tr>
-      <td>Investigation Assignments (Group)</td>
+      <td>Project Presentation (Group, Take Home)</td>
       <td>15%</td>
     </tr>
     <tr>
       <td>Lab Assignments (Group)</td>
+      <td>15%</td>
+    </tr>
+    <tr>
+      <td>Investigation Assignments (Group)</td>
       <td>15%</td>
     </tr>
     <tr>
@@ -246,43 +246,43 @@ Your final grades will be determined based on the total points earned. It's esse
   </tr>
   <tr>
     <td>$A$</td>
-    <td>$93 \le x$</td>
+    <td>$90 \le x$</td>
   </tr>
   <tr>
     <td>$A^-$</td>
-    <td>$90 \le x < 93$</td>
-  </tr>
-  <tr>
-    <td>$B^+$</td>
     <td>$87 \le x < 90$</td>
   </tr>
   <tr>
+    <td>$B^+$</td>
+    <td>$84 \le x < 87$</td>
+  </tr>
+  <tr>
     <td>$B$</td>
-    <td>$83 \le x < 87$</td>
+    <td>$81 \le x < 84$</td>
   </tr>
   <tr>
     <td>$B^-$</td>
-    <td>$80 \le x < 83$</td>
+    <td>$78 \le x < 81$</td>
   </tr>
   <tr>
     <td>$C^+$</td>
-    <td>$77 \le x < 80$</td>
+    <td>$75 \le x < 78$</td>
   </tr>
   <tr>
     <td>$C$</td>
-    <td>$73 \le x < 77$</td>
+    <td>$72 \le x < 75$</td>
   </tr>
   <tr>
     <td>$C^-$</td>
-    <td>$70 \le x < 73$</td>
+    <td>$69 \le x < 72$</td>
   </tr>
   <tr>
     <td>$D^+$</td>
-    <td>$67 \le x < 70$</td>
+    <td>$66 \le x < 69$</td>
   </tr>
   <tr>
     <td>$D$</td>
-    <td>$63 \le x < 67$</td>
+    <td>$63 \le x < 66$</td>
   </tr>
   <tr>
     <td>$D^-$</td>
