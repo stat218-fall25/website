@@ -3,6 +3,7 @@ title: "Course Information"
 toc: true
 ---
 
+
 ```{r}
 #| echo: false
 #| output: false
@@ -97,7 +98,6 @@ class_cal <- Cal |>
                     breaks=c("Class Day", "Cal Poly Holiday", "Exam (In-Class)", "Project Due"))
 class_cal
 ```
-
 
 
 ## Prerequisite
