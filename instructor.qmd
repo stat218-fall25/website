@@ -40,11 +40,11 @@ __Wed:__ 2:10 PM - 3:50 PM on _(Zoom)_ <a href = "https://calpoly.zoom.us/j/8539
  
 ## Grader  
 
-<br>   
-<br>    
-<br>   
-<br>   
-<br>      
+```{=html}
+<img src="img/chris.jpeg" alt="A headshot of a man with straight, short hair with brown eyes."
+  style="width: 250px; height: 250px; border-radius: 100%; margin-top: 5px; border: 1px solid whitesmoke; padding: 5px;">
+
+```   
 
  
 
