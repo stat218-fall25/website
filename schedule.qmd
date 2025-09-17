@@ -37,7 +37,7 @@ all conveniently organized for your academic journey.
   <tr>
     <td>&nbsp; Nothing, just come to the class!</td>
     <td>
-      &nbsp;<input type="checkbox" /><a href="h" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Covering the website & syllabus</a> <i class="fas fa-file-lines"></i>   
+      &nbsp;<input type="checkbox" /><a href="https://stat218-fall25.github.io/slides/00-Week-00/01-Lect-01/01-welcome.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Covering the website & syllabus</a> <i class="fas fa-file-lines"></i>   
       &nbsp;<input type="checkbox" /> A Discussion on Life Sci. and Statistics <i class="fas fa-comments"></i>
   <td> 
       &nbsp;<input type="checkbox" /> <a href="https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen" target="_blank"> <i aria-hidden="true" title="External Link to YouTube" target="_blank"></i> The best stats you've ever seen</a> <i class="fas fa-video"></i>  
