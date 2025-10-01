@@ -206,7 +206,7 @@ all conveniently organized for your academic journey.
     </td>
     <td>
     <br>
-     &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Lecture Slides - Introduction to Chance Models </a> <i class="fas fa-file-lines"></i>   
+     &nbsp; <input type="checkbox" /><a href="https://docs.google.com/presentation/d/1sX9ij32z59iXCRO6LiDC4dG53fKrUEJbLyFfJbzxapQ/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Lecture Slides - Introduction to Chance Models </a> <i class="fas fa-file-lines"></i>   
     &nbsp; <input type="checkbox" /> Guided Activity
     <br>   
     </td>
