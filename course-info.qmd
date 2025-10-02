@@ -15,15 +15,6 @@ library(kableExtra)
 
 ```
 
-::: callout-tip
-## <i class="fa-solid fa-face-smile"></i> A Note for My 9:10 AM Students  
- 
-
-If you ever see me sprinting out the door after class, I promise I’m not avoiding you — just racing to my next section! 🏃️
-
-I’m always happy to answer your questions by email or in office hours once I catch my breath!  
-
-:::
 
 __Section 03:__ MTWR 09:10 AM – 10:00 AM 14-253 (Frank E. Pilling 14)    
 __Section 04:__ MTWR 10:10 AM – 11:00 AM  010-222 (Erhart Agriculture 010)

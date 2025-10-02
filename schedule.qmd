@@ -239,18 +239,187 @@ all conveniently organized for your academic journey.
 
 </table>
 
-### {{< fa calendar >}} Week 3
-
-<br>
-Underway &nbsp; <i class="fas fa-broom"></i>
-<br>
+### {{< fa calendar-days >}} Week 3 (Oct 6 - Oct 9)
 
 
-### {{< fa calendar >}} Week 4
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 40%">BEFORE CLASS</th>
+    <th style="width: 36%">DURING CLASS</th>
+    <th style="width: 24%">AFTER CLASS</th>
+  </thead>
+
+  <tr>
+    <td>
+    <b> CHAPTER 3 and CHAPTER 4 </b>  
+    <br>
+    &nbsp;<input type="checkbox" /> <b>Section 3.1:</b> Probability and the Life Sciences <i class="fas fa-book-open"></i>      
+    &nbsp;<input type="checkbox" /> <b>Section 3.2:</b> Introduction to Probability <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox" /> <b>Section 3.4:</b> Density Curves <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox" /> <b>Chapter 4</b> pp. 132- 137 <i class="fas fa-book-open"></i>  
+
+&nbsp; <b>FROM Samuels et al. (2016)</b>  
+    </td>
+    <td>
+      &nbsp;<input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides </a> <i class="fas fa-file-lines"></i>   
+      &nbsp;<input type="checkbox" /><a href="https://www.rossmanchance.com/applets/2021/oneprop/OneProp.htm" target="_blank"><i aria-hidden="true" title="External Link to the Applet"></i> Rossman & Chance Applet </a> <i class="fas fa-comments"></i>
+  <td>
+
+<b> No Assignment for today! </b>
+      
+  </td>
+</tr>
+
+  <tr>
+    <td> 
+    <b> CHAPTER 3 and CHAPTER 4 </b>  
+    <br>
+    &nbsp;<input type="checkbox" /> <b>Section 3.1:</b> Probability and the Life Sciences <i class="fas fa-book-open"></i>      
+    &nbsp;<input type="checkbox" /> <b>Section 3.2:</b> Introduction to Probability <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox" /> <b>Section 3.4:</b> Density Curves <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox" /> <b>Chapter 4</b> pp. 132- 137 <i class="fas fa-book-open"></i>  
+
+&nbsp; <b>FROM Samuels et al. (2016)</b>  
+</td>
+
+<td>    
+    &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 3 </a><i class="fa-solid fa-magnifying-glass"></i>  
+</td>
+
+<td>
+    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i>  Investigation 3  
 
 <br>
-Underway &nbsp; <i class="fas fa-broom"></i>
+
+<i class="fas fa-clock"></i>  <b> DUE DATE: Thu, Oct 09 </b>
+</td>
+  </tr>
+
+  <tr>
+    <td> 
+    <b> CH 6: Confidence Intervals </b>  
+    <br>
+    &nbsp;<input type="checkbox" /> <b>Section 6.1:</b> Statistical Estimation <i class="fas fa-book-open"></i>      
+    &nbsp;<input type="checkbox" /> <b>Section 6.2:</b> Standard Error of the Mean <i class="fas fa-book-open"></i>   
+
+&nbsp; <b>FROM Samuels et al. (2016)</b>  
+    </td>
+    <td>
+    <br>
+     &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Lecture Slides</a> <i class="fas fa-file-lines"></i>   
+    </td>
+
+<td>
+    &nbsp;<i class="fas fa-user"></i> <i class="fas fa-upload"></i> Weekly Assignment    
+    <br>
+    &nbsp; <input type="checkbox" /> Course Survey     
+
+
+<i class="fas fa-clock"></i><b> DUE DATE: Mon, Oct 13</b> 
+</td>
+  </tr>
+
+  <tr>
+    <td>
+    <b> CH 2: Description of Samples and Populations </b>  
+    <br>
+    &nbsp;<input type="checkbox" /> <b>Section 2.2:</b> Frequency Distributions <i class="fas fa-book-open"></i>      
+    &nbsp;<input type="checkbox" /> <b>Section 2.3:</b> Descriptive Statistics <i class="fas fa-book-open"></i>    
+
+&nbsp; <b>FROM Samuels et al. (2016)</b>  
+    </td>
+    
+<td>    
+    &nbsp; <input type="checkbox" /> <a href="" target="_blank"><i aria-hidden="true" title="External Link to Lab Slide" target="_blank"></i> Lab Slides - Descriptive Statistics - II   </a> <i class="fas fa-file-lines"></i>   
+    </td>
+    <td> 
+    &nbsp;<i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 2  
+ 
 <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Mon, Oct, 13</b>
+    </td>
+  </tr>
+
+</table>
+
+
+### {{< fa calendar-days >}} Week 4 (Oct 13 - Oct 16)
+
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 40%">BEFORE CLASS</th>
+    <th style="width: 36%">DURING CLASS</th>
+    <th style="width: 24%">AFTER CLASS</th>
+  </thead>
+
+  <tr>
+    <td>
+    <br>
+    <b> Introduction to Confidence Intervals and Quantitative Data</b>  
+    <br>    
+ Nothing, just come to the class  
+    <br>    
+    </td>
+    </td>
+    <td>
+      &nbsp;<input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Confidence Intervals </a> <i class="fas fa-file-lines"></i>   
+      &nbsp;<input type="checkbox" /><a href="https://www.rossmanchance.com/applets/2021/oneprop/OneProp.htm" target="_blank"><i aria-hidden="true" title="External Link to the Applet"></i> Rossman & Chance Applet </a> <i class="fas fa-comments"></i>
+  <td>
+
+<b> No Assignment for today! </b>
+      
+  </td>
+</tr>
+
+  <tr>
+    <td> 
+    <b> CH 6: INFERENCE FOR CATEGORICAL DATA </b>  
+    <br>
+    &nbsp;<input type="checkbox" /> <a href="https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to boook" target="_blank"></i><b>Section 6.1:</b> Inference for a single proportion </a><i class="fas fa-book-open"></i>      
+
+&nbsp; <b>  FROM Diez et al. (2022)</b>  
+    </td>
+</td>
+
+<td>    
+    &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 4 -  Climate Change and Confidence Interval </a><i class="fa-solid fa-magnifying-glass"></i>  
+</td>
+
+<td>
+    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i>  Investigation 4  
+
+<br>
+
+<i class="fas fa-clock"></i>  <b> DUE DATE: Thu, Oct 16 </b>
+</td>
+  </tr>
+
+  <tr>
+    <td>
+    <b> CHAPTER 1 - CHAPTER 6 </b>  
+    <br>
+    &nbsp;<input type="checkbox" /> Review all chapters <i class="fas fa-book-open"></i>  
+
+&nbsp; <b>FROM Samuels et al. (2016)</b>  
+    </td>
+    
+<td>    
+    &nbsp; <input type="checkbox" /> <a href="" target="_blank"><i aria-hidden="true" title="External Link to Lab Slide" target="_blank"></i> Ungraded Quiz - Google Form  </a> <i class="fas fa-highlighter"></i>   
+    </td>
+    <td> 
+    &nbsp; <input type="checkbox" /> Review your class notes
+ 
+<br>
+    </td>
+  </tr>
+<tr>
+  <td colspan="3" style="text-align: center;">&nbsp; <b> Midterm 1 (In-class) </b></td>
+</tr>
+</table>
+
+
 
 ### {{< fa calendar >}} Week 5
 
