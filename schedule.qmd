@@ -262,7 +262,7 @@ all conveniently organized for your academic journey.
 &nbsp; <b>FROM Samuels et al. (2016)</b>  
     </td>
     <td>
-      &nbsp;<input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides </a> <i class="fas fa-file-lines"></i>   
+      &nbsp;<input type="checkbox" /><a href="https://docs.google.com/presentation/d/1igfbPHLU6WLBQT_yhmyzI8ELFs7ztSi7hxOK-okPqmk/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Introduction to Hypothesis Testing </a> <i class="fas fa-file-lines"></i>   
       &nbsp;<input type="checkbox" /><a href="https://www.rossmanchance.com/applets/2021/oneprop/OneProp.htm" target="_blank"><i aria-hidden="true" title="External Link to the Applet"></i> Rossman & Chance Applet </a> <i class="fas fa-comments"></i>
   <td>
 
@@ -284,7 +284,7 @@ all conveniently organized for your academic journey.
 </td>
 
 <td>    
-    &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 3 </a><i class="fa-solid fa-magnifying-glass"></i>  
+    &nbsp; <input type="checkbox" /><a href="https://docs.google.com/document/d/1lXh19tnJhvO63KAqWkf9_Q9EgcqpAVgR/copy?usp=sharing&ouid=107969602618040380602&rtpof=true&sd=true" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 3 </a><i class="fa-solid fa-magnifying-glass"></i>  
 </td>
 
 <td>
