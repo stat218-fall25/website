@@ -298,18 +298,15 @@ all conveniently organized for your academic journey.
 
   <tr>
     <td> 
-    <b> CH 6: Confidence Intervals </b>  
-    <br>
-    &nbsp;<input type="checkbox" /> <b>Section 6.1:</b> Statistical Estimation <i class="fas fa-book-open"></i>      
-    &nbsp;<input type="checkbox" /> <b>Section 6.2:</b> Standard Error of the Mean <i class="fas fa-book-open"></i>   
-
-&nbsp; <b>FROM Samuels et al. (2016)</b>  
+   Nothing, just come to the class!
+   
+   Print/Download the handout. 
     </td>
     <td>
     <br>
-     &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Lecture Slides</a> <i class="fas fa-file-lines"></i>   
+     &nbsp; <input type="checkbox" /><a href="https://docs.google.com/document/d/1ypaqG1EfHuY5N6PJ6lrkC-yWflrF7ser/copy?usp=sharing&ouid=107969602618040380602&rtpof=true&sd=true" target="_blank"><i aria-hidden="true" title="External Links to Word documents" target="_blank"></i> Sampling Distribution Handout (Word) </a> <i class="fas fa-file-lines"></i>
+     &nbsp; <input type="checkbox" /><a href="https://stat218-fall25.github.io/slides/03-Week-03/03-Lecture-3-student-copy.pdf" target="_blank"><i aria-hidden="true" title="External Links to PDF documents" target="_blank"></i> Sampling Distribution Handout (PDF) </a> <i class="fas fa-file-lines"></i>
     </td>
-
 <td>
     &nbsp;<i class="fas fa-user"></i> <i class="fas fa-upload"></i> Weekly Assignment    
     <br>
