@@ -328,7 +328,7 @@ all conveniently organized for your academic journey.
     </td>
     
 <td>    
-    &nbsp; <input type="checkbox" /> <a href="" target="_blank"><i aria-hidden="true" title="External Link to Lab Slide" target="_blank"></i> Lab Slides - Descriptive Statistics - II   </a> <i class="fas fa-file-lines"></i>   
+    &nbsp; <input type="checkbox" /> <a href="https://stat218-fall25.github.io/slides/03-Week-03/04-Lect-04/01-Lecture-04-Lab-02.html" target="_blank"><i aria-hidden="true" title="External Link to Lab Slide" target="_blank"></i> Lab Slides - Descriptive Statistics - II   </a> <i class="fas fa-file-lines"></i>   
     </td>
     <td> 
     &nbsp;<i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 2  
@@ -395,18 +395,14 @@ all conveniently organized for your academic journey.
 
   <tr>
     <td>
-    <b> CHAPTER 1 - CHAPTER 6 </b>  
-    <br>
-    &nbsp;<input type="checkbox" /> Review all chapters <i class="fas fa-book-open"></i>  
-
-&nbsp; <b>FROM Samuels et al. (2016)</b>  
+    TBA
     </td>
     
-<td>    
-    &nbsp; <input type="checkbox" /> <a href="" target="_blank"><i aria-hidden="true" title="External Link to Lab Slide" target="_blank"></i> Ungraded Quiz - Google Form  </a> <i class="fas fa-highlighter"></i>   
+<td> 
+    &nbsp; <input type="checkbox" /> <a href="" target="_blank"><i aria-hidden="true" title="External Link to Lab Slide" target="_blank"></i> TBA  </a> <i class="fas fa-highlighter"></i>   
     </td>
     <td> 
-    &nbsp; <input type="checkbox" /> Review your class notes
+    &nbsp; <input type="checkbox" /> TBA
  
 <br>
     </td>
