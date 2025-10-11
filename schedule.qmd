@@ -354,58 +354,64 @@ all conveniently organized for your academic journey.
   <tr>
     <td>
     <br>
-    <b> Introduction to Confidence Intervals and Quantitative Data</b>  
+    <b> Introduction to Confidence Intervals</b>  
     <br>    
- Nothing, just come to the class  
+ Nothing, just come to the class!  
     <br>    
     </td>
     </td>
     <td>
-      &nbsp;<input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Confidence Intervals </a> <i class="fas fa-file-lines"></i>   
+      &nbsp;<input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Introduction to Confidence Intervals </a> <i class="fas fa-file-lines"></i>   
       &nbsp;<input type="checkbox" /><a href="https://www.rossmanchance.com/applets/2021/oneprop/OneProp.htm" target="_blank"><i aria-hidden="true" title="External Link to the Applet"></i> Rossman & Chance Applet </a> <i class="fas fa-comments"></i>
   <td>
+    &nbsp;<i class="fas fa-user"></i> <i class="fas fa-upload"></i> Weekly Assignment    
+    <br>
+    &nbsp; <input type="checkbox" /> See Canvas     
 
-<b> No Assignment for today! </b>
+
+<i class="fas fa-clock"></i><b> DUE DATE: Mon, Oct 20</b> 
       
   </td>
 </tr>
-
+  <tr>
+    <td>
+        &nbsp; <b> CH 4: The Normal Distribution </b>  
+    &nbsp;<input type="checkbox" /> <b>Section 4.1:</b> Introduction <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox" /> <b>Section 4.2:</b> The Normal Curves <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox" /> <b>Section 4.3:</b> Areas under a Normal Curve <i class="fas fa-book-open"></i>   
+    &nbsp; FROM Samuels et al. (2016)
+    </td>
+    
+<td> 
+    &nbsp; <input type="checkbox" /> <a href="" target="_blank"><i aria-hidden="true" title="External Link to Lab Slide" target="_blank"></i> Lecture Slides  </a> <i class="fas fa-highlighter"></i>   
+    </td>
+    <td> 
+    &nbsp;&nbsp; No assignment for today!!
+ 
+<br>
+    </td>
+  </tr>
   <tr>
     <td> 
-    <b> CH 6: INFERENCE FOR CATEGORICAL DATA </b>  
+    <b> CH 6: Confidence Intervals </b>  
     <br>
-    &nbsp;<input type="checkbox" /> <a href="https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to boook" target="_blank"></i><b>Section 6.1:</b> Inference for a single proportion </a><i class="fas fa-book-open"></i>      
+    &nbsp;<input type="checkbox" /> <b>Section 6.1:</b> Statistical Estimation <i class="fas fa-book-open"></i>      
+    &nbsp;<input type="checkbox" /> <b>Section 6.2:</b> Standard Error of the Mean <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox" /> <b>Section 6.3:</b> Confidence Interval for µ <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox" /> <b>Section 6.4:</b> Planning a Study to Estimate µ <i class="fas fa-book-open"></i>  
 
-&nbsp; <b>  FROM Diez et al. (2022)</b>  
+&nbsp; <b>FROM Samuels et al. (2016)</b>  
     </td>
 </td>
 
 <td>    
-    &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 4 -  Climate Change and Confidence Interval </a><i class="fa-solid fa-magnifying-glass"></i>  
+    <br>
+     &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Lecture Slides - Confidence Interval for a Single Mean</a> <i class="fas fa-file-lines"></i>   
 </td>
 
 <td>
-    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i>  Investigation 4  
-
-<br>
-
-<i class="fas fa-clock"></i>  <b> DUE DATE: Thu, Oct 16 </b>
+&nbsp; &nbsp; No Assignment for today!
 </td>
-  </tr>
-
-  <tr>
-    <td>
-    TBA
-    </td>
-    
-<td> 
-    &nbsp; <input type="checkbox" /> <a href="" target="_blank"><i aria-hidden="true" title="External Link to Lab Slide" target="_blank"></i> TBA  </a> <i class="fas fa-highlighter"></i>   
-    </td>
-    <td> 
-    &nbsp; <input type="checkbox" /> TBA
- 
-<br>
-    </td>
   </tr>
 <tr>
   <td colspan="3" style="text-align: center;">&nbsp; <b> Midterm 1 (In-class) </b></td>
