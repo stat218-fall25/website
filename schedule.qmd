@@ -361,8 +361,13 @@ all conveniently organized for your academic journey.
     </td>
     </td>
     <td>
-      &nbsp;<input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Introduction to Confidence Intervals </a> <i class="fas fa-file-lines"></i>   
+<br>
+      &nbsp;<input type="checkbox" /><a href="https://docs.google.com/presentation/d/12_yIRWzUMMaNsoCsxsBuUS2jAcPbktmEKKRuKILiZqc/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - More on CLT and Introduction to Confidence Intervals </a> <i class="fas fa-file-lines"></i>  
+
+<br>
       &nbsp;<input type="checkbox" /><a href="https://www.rossmanchance.com/applets/2021/oneprop/OneProp.htm" target="_blank"><i aria-hidden="true" title="External Link to the Applet"></i> Rossman & Chance Applet </a> <i class="fas fa-comments"></i>
+<br>
+      </td>
   <td>
     &nbsp;<i class="fas fa-user"></i> <i class="fas fa-upload"></i> Weekly Assignment    
     <br>
