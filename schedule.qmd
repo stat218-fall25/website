@@ -425,17 +425,200 @@ all conveniently organized for your academic journey.
 
 
 
-### {{< fa calendar >}} Week 5
+### {{< fa calendar-days >}} Week 5 (Oct 20 - Oct 23)
+
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 35%">BEFORE CLASS</th>
+    <th style="width: 40%">DURING CLASS</th>
+    <th style="width: 25%">AFTER CLASS</th>
+  </thead>
+
+  <tr>
+    <td> 
+    &nbsp; <b> Ch 6: Confidence Interval </b>  
+    &nbsp;<input type="checkbox" /> <b>Section 6.3:</b> CI for µ <i class="fas fa-book-open"></i>    
+    &nbsp;<input type="checkbox" /> <b>Section 6.4:</b> Planning a Study to Estimate µ <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox" /> <b>Section 6.5:</b> Conditions for Validity of Estimation Methods <i class="fas fa-book-open"></i>    
+    &nbsp; FROM Samuels et al. (2016)
+    </td>
+    <td>    
+    &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slides"></i> Lecture Slides </a>&nbsp; <i class="fas fa-file-lines"></i>    
+    </td>
+    
+  <td>
+       &nbsp;<i class="fas fa-user"></i> <i class="fas fa-upload"></i> Weekly Assignment    
+    <br>
+    &nbsp; <input type="checkbox" /> Exercise 6.4.1     
+
+<i class="fas fa-clock"></i><b> DUE DATE: Mon, Oct 27</b>
+      
+</td>
+  </tr>
+  <tr>
+    <td> 
+    <b> CH 6: INFERENCE FOR CATEGORICAL DATA </b>  
+    <br>
+    &nbsp;<input type="checkbox" /> <a href="https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to boook" target="_blank"></i><b>Section 6.1:</b> Inference for a single proportion </a><i class="fas fa-book-open"></i>      
+
+&nbsp; <b>  FROM Diez et al. (2022)</b>  
+    </td>
+</td>
+
+<td>    
+    &nbsp; <input type="checkbox" /><a href="h" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 4 -  Climate Change and Confidence Interval </a><i class="fa-solid fa-magnifying-glass"></i>  
+</td>
+
+<td>
+    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i>  Investigation 4  
 
 <br>
-Being Worked On &nbsp; <i class="fas fa-hammer"></i>
+
+<i class="fas fa-clock"></i>  <b> DUE DATE: Thu, Oct 23 </b>
+</td>
+  </tr>
+
+  <tr>
+<tr>
+  <td> 
+    &nbsp; <b> Ch 6: Inference for Categorical Data </b>    
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sec. 6.2</b> Difference of two proportions</a>&nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Diez et al. (2022) 
+    <br>
+  </td>
+    <td>    
+    &nbsp; <input type="checkbox" /><a href = "h" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Association and Confounding </a> &nbsp; <i class="fas fa-file-lines"></i>  
+    </td>
+    <td>
+    &nbsp; **No Assignment for Today!** 
+</td>
+  </tr>
+
+  <tr>
+    <td> 
+    &nbsp; <b> Ch 6: Inference for Categorical Data </b>    
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sec. 6.2</b> Difference of two proportions</a>&nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Diez et al. (2022) 
+    <br>
+    </td>
+    
+  <td>
+     &nbsp; <input type="checkbox" /><a href = "https://www.rossmanchance.com/chance/stat217S22/labs/lab4/lab4_1.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lab Activity - Dolphin Therapy (Applet) </a> &nbsp; <i class="fas fa-file-lines"></i>       
+    </td>
+    <td>
+    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 3  
+<br>
+<i class="fas fa-clock"></i><b> DUE DATE: Sun, Oct 27 </b>
+    </td>
+  </tr>
+
+</table>
+### {{< fa calendar-days >}} Week 6 (Oct 27 - Oct 30)
+
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 40%">BEFORE CLASS</th>
+    <th style="width: 36%">DURING CLASS</th>
+    <th style="width: 24%">AFTER CLASS</th>
+  </thead>
+
+  <tr>
+    <td>
+    &nbsp; <b> Ch 6: Inference for Categorical Data </b>    
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sec. 6.2</b> Difference of two proportions</a>&nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; <b> FROM Diez et al. (2022) </br>
+    <br>
+    </td>
+    <td>
+      &nbsp;<input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides </a> <i class="fas fa-file-lines"></i>   
+  </td>
+  <td>
+  
+<b> No Assignment for today! </b>
+      
+  </td>
+</tr>
+
+  <tr>
+    <td> 
+    <b> Review these previous lecture slides </b>  
+    <br>
+    &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Association and Confounding </a> &nbsp; <i class="fas fa-file-lines"></i>       
+
+  &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Difference of Two Proportions </a> &nbsp; <i class="fas fa-file-lines"></i>       
+</td>
+
+<td>    
+    &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 5 - Do COVID vaccines work?
+ </a><i class="fa-solid fa-magnifying-glass"></i>  
+</td>
+
+<td>
+    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i>  Investigation 5  
+
 <br>
 
-### {{< fa calendar >}} Week 6
+<i class="fas fa-clock"></i>  <b> DUE DATE: Thu, Oct 30 </b>
+</td>
+  </tr>
 
+  <tr>
+    <td> 
+    <b> CH 6: Confidence Intervals </b>  
+    <br>
+    &nbsp;<input type="checkbox" /> <b>Section 6.6:</b> Comparing two means  <i class="fas fa-book-open"></i>      
+    &nbsp;<input type="checkbox" /> <b>Section 6.7:</b> Confidence Interval for µ1 - µ2 <i class="fas fa-book-open"></i>   
+
+&nbsp; <b>FROM Samuels et al. (2016)</b>  
+    </td>
+    <td>
+    <br>
+     &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Lecture Slides - Comparing Two Means </a> <i class="fas fa-file-lines"></i>   
+    </td>
+
+<td>
+    &nbsp;<i class="fas fa-user"></i> <i class="fas fa-upload"></i> Weekly Assignment    
+    <br>
+    &nbsp; <input type="checkbox" /> Course Survey     
+
+
+<i class="fas fa-clock"></i><b> DUE DATE: Mon, Nov 03</b> 
+</td>
+  </tr>
+
+  <tr>
+    <td>
+   &nbsp; <b> Ch 7: Inference for Numerical Data </b>    
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i> 7.1.5 One sample t-tests</a>&nbsp; <i class="fas fa-book-open"></i>    
+    &nbsp; FROM Diez et al. (2022)   
+  <br>    
+  <b> CH 6: Confidence Intervals </b>  
+    <br>
+    &nbsp;<input type="checkbox" /> <b>Section 6.6:</b> Comparing two means  <i class="fas fa-book-open"></i>      
+    &nbsp;<input type="checkbox" /> <b>Section 6.7:</b> Confidence Interval for µ1 - µ2 <i class="fas fa-book-open"></i>   
+
+&nbsp; <b>FROM Samuels et al. (2016)</b>  
+    </td>
+    
+<td>    
+    &nbsp; <input type="checkbox" /> <a href="" target="_blank"><i aria-hidden="true" title="External Link to Lab Slide" target="_blank"></i> Lab Slides - Applications of t-tests   </a> <i class="fas fa-file-lines"></i>   
+    </td>
+    <td> 
+    &nbsp;<i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 4  
+ 
 <br>
-Being Worked On &nbsp; <i class="fas fa-hammer"></i>
-<br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Mon, Nov, 03</b>
+    </td>
+  </tr>
+
+</table>
+
+
 
 ### {{< fa calendar >}} Week 7
 
