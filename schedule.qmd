@@ -480,14 +480,11 @@ all conveniently organized for your academic journey.
   <tr>
 <tr>
   <td> 
-    &nbsp; <b> Ch 6: Inference for Categorical Data </b>    
-    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sec. 6.2</b> Difference of two proportions</a>&nbsp; <i class="fas fa-book-open"></i>   
-    <br>
-    &nbsp; FROM Diez et al. (2022) 
+    &nbsp; <b> Review of Week 3 & 4 </b>    
     <br>
   </td>
     <td>    
-    &nbsp; <input type="checkbox" /><a href = "h" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Association and Confounding </a> &nbsp; <i class="fas fa-file-lines"></i>  
+    &nbsp; <input type="checkbox" /><a href = "https://docs.google.com/presentation/d/11wKgWu5AqFgJjWfGF0lTqJmsIwUkil_x2ua1IrZBuvA/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Review of Hypothesis Testing & CI </a> &nbsp; <i class="fas fa-file-lines"></i>  
     </td>
     <td>
     &nbsp; **No Assignment for Today!** 
@@ -504,12 +501,10 @@ all conveniently organized for your academic journey.
     </td>
     
   <td>
-     &nbsp; <input type="checkbox" /><a href = "https://www.rossmanchance.com/chance/stat217S22/labs/lab4/lab4_1.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lab Activity - Dolphin Therapy (Applet) </a> &nbsp; <i class="fas fa-file-lines"></i>       
+     &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides -  Difference of Two Proportions </a> &nbsp; <i class="fas fa-file-lines"></i>       
     </td>
     <td>
-    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 3  
-<br>
-<i class="fas fa-clock"></i><b> DUE DATE: Sun, Oct 27 </b>
+  TBD
     </td>
   </tr>
 
