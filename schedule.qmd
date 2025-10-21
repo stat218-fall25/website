@@ -458,16 +458,14 @@ all conveniently organized for your academic journey.
   </tr>
   <tr>
     <td> 
-    <b> CH 6: INFERENCE FOR CATEGORICAL DATA </b>  
+    <b> Review your Hypothesis Testing for One Mean notes! </b>  
     <br>
-    &nbsp;<input type="checkbox" /> <a href="https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to boook" target="_blank"></i><b>Section 6.1:</b> Inference for a single proportion </a><i class="fas fa-book-open"></i>      
 
-&nbsp; <b>  FROM Diez et al. (2022)</b>  
     </td>
 </td>
 
 <td>    
-    &nbsp; <input type="checkbox" /><a href="h" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 4 -  Climate Change and Confidence Interval </a><i class="fa-solid fa-magnifying-glass"></i>  
+    &nbsp; <input type="checkbox" /><a href="https://www.rossmanchance.com/chance/stat217S22/labs/lab2/lab2_1.html?mean=&n=" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 4 -  Sleepless Night </a><i class="fa-solid fa-magnifying-glass"></i>  
 </td>
 
 <td>
