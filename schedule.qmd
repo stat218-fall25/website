@@ -501,10 +501,10 @@ all conveniently organized for your academic journey.
     </td>
     
   <td>
-     &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides -  Difference of Two Proportions </a> &nbsp; <i class="fas fa-file-lines"></i>       
+     &nbsp; <input type="checkbox" /><a href = "https://www.rossmanchance.com/applets/2021/chisqshuffle/ChiSqShuffle.htm?dolphins=1" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides -  Difference of Two Proportions </a> &nbsp; <i class="fas fa-file-lines"></i>       
     </td>
     <td>
-  TBD
+  No assignment for today!
     </td>
   </tr>
 
