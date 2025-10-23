@@ -501,7 +501,7 @@ all conveniently organized for your academic journey.
     </td>
     
   <td>
-     &nbsp; <input type="checkbox" /><a href = "https://www.rossmanchance.com/applets/2021/chisqshuffle/ChiSqShuffle.htm?dolphins=1" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides -  Difference of Two Proportions </a> &nbsp; <i class="fas fa-file-lines"></i>       
+     &nbsp; <input type="checkbox" /><a href = "https://docs.google.com/presentation/d/1l556i5LEeKM1fHT97PI56lb9iQzPRpnbeCbR_qMvT6s/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides -  Difference of Two Proportions </a> &nbsp; <i class="fas fa-file-lines"></i>       
     </td>
     <td>
   No assignment for today!
@@ -541,9 +541,9 @@ all conveniently organized for your academic journey.
     <td> 
     <b> Review these previous lecture slides </b>  
     <br>
-    &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Association and Confounding </a> &nbsp; <i class="fas fa-file-lines"></i>       
+    &nbsp; <input type="checkbox" /><a href = "https://docs.google.com/presentation/d/1DekBEWOTbK_mbTUSpdcxyg6DjucpRfkLPfVlB6uLCfc/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Association and Confounding </a> &nbsp; <i class="fas fa-file-lines"></i>       
 
-  &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Difference of Two Proportions </a> &nbsp; <i class="fas fa-file-lines"></i>       
+  &nbsp; <input type="checkbox" /><a href = "https://docs.google.com/presentation/d/1l556i5LEeKM1fHT97PI56lb9iQzPRpnbeCbR_qMvT6s/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Difference of Two Proportions </a> &nbsp; <i class="fas fa-file-lines"></i>       
 </td>
 
 <td>    
@@ -602,7 +602,7 @@ all conveniently organized for your academic journey.
     &nbsp; <input type="checkbox" /> <a href="" target="_blank"><i aria-hidden="true" title="External Link to Lab Slide" target="_blank"></i> Lab Slides - Applications of t-tests   </a> <i class="fas fa-file-lines"></i>   
     </td>
     <td> 
-    &nbsp;<i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 4  
+    &nbsp;<i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 3  
  
 <br>
     <i class="fas fa-clock"></i><b> DUE DATE: Mon, Nov, 03</b>
