@@ -528,7 +528,9 @@ all conveniently organized for your academic journey.
     <br>
     </td>
     <td>
-      &nbsp;<input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides </a> <i class="fas fa-file-lines"></i>   
+      &nbsp;<input type="checkbox" /><a href="https://docs.google.com/document/d/1urc4dJdAbSL_H62KUTm61IzK9Yz9WIHv/copy?usp=sharing&ouid=107969602618040380602&rtpof=true&sd=true" target="_blank"><i aria-hidden="true" title="External Link to Handout"></i> Lecture Handout - Difference of Two Proportions (Google Doc) </a> <i class="fas fa-file-lines"></i>   
+        
+      &nbsp;<input type="checkbox" /><a href="https://drive.google.com/file/d/1OQ1YXxko6NN6Tr12zZbqH-fXOuPYQmdB/view?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Handout"></i> Lecture Handout - Difference of Two Proportions (PDF) </a> <i class="fas fa-file-lines"></i>   
   </td>
   <td>
   
