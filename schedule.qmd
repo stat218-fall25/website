@@ -615,25 +615,322 @@ all conveniently organized for your academic journey.
 
 
 
-### {{< fa calendar >}} Week 7
+### {{< fa calendar-days >}} Week 7 (Nov 3 - Nov 6)
+
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 37%">BEFORE CLASS</th>
+    <th style="width: 33%">DURING CLASS</th>
+    <th style="width: 30%">AFTER CLASS</th>
+  </thead>
+
+  <tr>
+    <td> 
+    <br>
+    &nbsp; <b> Ch 8: Comparison of Paired Samples </b>  
+    &nbsp;<input type="checkbox"> <b>Section 8.1:</b> Introduction <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox"> <b>Section 8.2:</b> The Paired-Sample t Test and Confidence Interval <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox"> <b> Section 8.3:</b> The Paired Design  <i class="fas fa-book-open"></i>  
+    &nbsp; FROM Samuels et al. (2016)    
+    </td>
+    <td> 
+    &nbsp; <input type="checkbox" /><a href = ""target="_blank"><i aria-hidden="true" title="External Link to Lecture Slides"></i> Lecture Slides - The Paired Design </a> &nbsp; <i class="fas fa-file-lines"></i>   
+    </td>
+    <td>
+   &nbsp;<i class="fas fa-user"></i> <i class="fas fa-upload"></i> Weekly Assignment 
+   
+   <input type="checkbox">Week 6 & 7 Review Assignment (CANVAS)     
+
+    <i class="fas fa-clock"></i><b> DUE DATE: Mon, Nov 10 </b>  
+  </td>
+</tr>
+
+  <tr>
+    <td> 
+    <br>
+    &nbsp; <b> Ch 8: Comparison of Paired Samples </b>  
+    &nbsp;<input type="checkbox"> <b>Section 8.1:</b> Introduction <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox"> <b>Section 8.2:</b> The Paired-Sample t Test and Confidence Interval <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox"> <b> Section 8.3:</b> The Paired Design  <i class="fas fa-book-open"></i>  
+    &nbsp; FROM Samuels et al. (2016)    
+    </td>
+<td>    
+    &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 6 - Document
+ </a><i class="fa-solid fa-magnifying-glass"></i>  
+</td>
+
+<td>
+    &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i>  Investigation 6  
 
 <br>
-Being Worked On &nbsp; <i class="fas fa-hammer"></i>
-<br>
 
-### {{< fa calendar >}} Week 8
-
+<i class="fas fa-clock"></i>  <b> DUE DATE: Thu, Nov 06 </b>
+</td>
+  </tr>
+  <tr>
+    <td>
+    &nbsp; Comprehensive Review of Weeks 1-7   
+    &nbsp; <input type="checkbox" /> <b> Bring your midterm papers if you had (I'll distribute them if you did not get yours) </b>
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox" /> Review midterm questions and beyond &nbsp; &nbsp; <i class="fas fa-highlighter"></i> 
+    </td>
+    <td>  
+<b> No Assignment for today! </b>
+    </td>  
+    </tr>
+  <tr>
+  <td>
+    <br>
+    &nbsp; <b> Ch 8: Comparison of Paired Samples </b>  
+    &nbsp;<input type="checkbox"> <b>Section 8.1:</b> Introduction <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox"> <b>Section 8.2:</b> The Paired-Sample t Test and Confidence Interval <i class="fas fa-book-open"></i>  
+    &nbsp;<input type="checkbox"> <b> Section 8.3:</b> The Paired Design  <i class="fas fa-book-open"></i>  
+    &nbsp; FROM Samuels et al. (2016) 
+    </td>
+    <td>    
+     &nbsp;<input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Lab Slides - Paired Samples t-test </a> &nbsp; <i class="fas fa-file-lines"></i>
+    </td>
+    <td> 
+    &nbsp;<i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 5  
+ 
 <br>
-Being Worked On &nbsp; <i class="fas fa-hammer"></i>
-<br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Mon, Nov, 10</b>    
+    </td>
+  </tr>
+</table>
 
-### {{< fa calendar >}} Week 9
+### {{< fa calendar-days >}} Week 8 (Nov 10 - Nov 13)
 
-<br>
-Being Worked On &nbsp; <i class="fas fa-hammer"></i>
-<br>
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
 
-### {{< fa calendar >}} Week 10
+  <thead>
+    <th style="width: 45%">BEFORE CLASS</th>
+    <th style="width: 30%">DURING CLASS</th>
+    <th style="width: 25%">AFTER CLASS</th>
+  </thead>
 
+<tr>
+  <td colspan="3" style="text-align: center;">&nbsp; <br>
+  <b> No class meeting but Dr. Demirci will be available in her office from 9:10 AM to 12:50 PM for anyone who would like extra help. </b>   
+<br>  
+  </td>
+</tr>
+<tr>
+  <td colspan="3" style="text-align: center;">&nbsp; <br>
+  <b> Cal Poly Holiday (No class meeting) </b>   
+<br>  
+  </td>
+</tr>
+  <tr>
+    <td>
+    &nbsp; <b>Ch 6: Inference for Categorical Data</b>  
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sect. 6.3</b> Testing for goodness of fit using chi-square</a>&nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sect. 6.4 </b> Testing for independence in two-way tables</a>&nbsp;<i class="fas fa-book-open"></i>   
+    &nbsp;&nbsp;FROM Diez et al. (2022)   
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox"><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Chi Square Test </a> &nbsp; <i class="fas fa-file-lines"></i>    
+    </td>
+    <td>
+<b> No assignment for today! </b>   
+    </td> 
+    </tr>
+  <tr>
+    <td> 
+    &nbsp; <b>Ch 6: Inference for Categorical Data</b>  
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sect. 6.3</b> Testing for goodness of fit using chi-square</a>&nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"><a href = "https://leanpub.com/os" target="_blank"><i aria-hidden="true" title="External Link to Book PDF"></i><b> Sect. 6.4 </b> Testing for independence in two-way tables</a>&nbsp;<i class="fas fa-book-open"></i>   
+    &nbsp;&nbsp;FROM Diez et al. (2022)   
+    </td>
+    <td> 
+    &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 7 - Comparing Multiple Proportions
+ </a><i class="fa-solid fa-magnifying-glass"></i>  
+</td>
+    </td>
+    <td>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Investigation 7    
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Mon, Nov 17 </b>
+    </td> 
+    </tr>
+
+</table>
+
+
+
+### {{< fa calendar-days >}} Week 9 (Nov 17 - Nov 20)
+
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 42%">BEFORE CLASS</th>
+    <th style="width: 35%">DURING CLASS</th>
+    <th style="width: 23%">AFTER CLASS</th>
+  </thead>
+
+<tr>
+    <td>
+    &nbsp; <b> Ch 11: Comparing the Means of Many Independent Samples </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 11.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.2</b> The Basic One-Way ANOVA &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.4</b> The Global F Test &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.5</b> Applicability of Methods &nbsp; <i class="fas fa-book-open"></i> 
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox"><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Introduction to One Way ANOVA </a> &nbsp; <i class="fas fa-file-lines"></i>   
+    </td>
+    <td>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Week 9 Individual Assignment (on CANVAS)
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Sun, Nov 24 </b>
+    </td> 
+</tr>
+  <tr>
+    <td>
+    &nbsp; <b> Ch 11: Comparing the Means of Many Independent Samples </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 11.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.2</b> The Basic One-Way ANOVA &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.4</b> The Global F Test &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.5</b> Applicability of Methods &nbsp; <i class="fas fa-book-open"></i> 
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>   
+    <td>    
+   &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lab Worksheet"></i> Investigation 8 - Comparing Multiple Means</a>&nbsp; <i class="fa-solid fa-magnifying-glass"></i>  
+    </td>
+    <td>
+    <br>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Investigation 8   
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Thu, Nov 20 </b>
+    </td> 
+    </tr>
+  <tr>
+    <td>
+    &nbsp; <b> Ch 11: Comparing the Means of Many Independent Samples </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 11.6</b> One-Way Randomized Blocks Design &nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>   
+    <td>    
+   &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lab Worksheet"></i> Lecture Slides - One Way Randomized Blocks Design </a>&nbsp; <i class="fas fa-file-lines"></i>  
+    </td>
+    <td>
+     No assignment!   
+    </td> 
+    </tr>
+  <tr>
+    <td>     
+    &nbsp; <b> Ch 11: Comparing the Means of Many Independent Samples </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 11.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.2</b> The Basic One-Way ANOVA &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.4</b> The Global F Test &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 11.5</b> Applicability of Methods &nbsp; <i class="fas fa-book-open"></i> 
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox" /><a href = ""  target="_blank"><i aria-hidden="true" title="External Link to Lab Dataset"></i> Lab Dataset - Aldrin Concentration </a>&nbsp; <i class="fas fa-laptop-file"></i>      
+    &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lab Slide"></i> Lab Slides - One-Way ANOVA </a> &nbsp; <i class="fas fa-file-lines"></i>     
+    </td>
+    <td>
+    <br>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 6  
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Mon, Nov 24 </b>    </td> 
+    </tr>
+
+</table>
+
+
+### {{< fa calendar-days >}} Week 10 (Dec 1 -Dec 4)
+
+<table class="table-striped table-bordered" style="font-size: smaller; text-align: left;">
+
+  <thead>
+    <th style="width: 40%">BEFORE CLASS</th>
+    <th style="width: 37%">DURING CLASS</th>
+    <th style="width: 23%">AFTER CLASS</th>
+  </thead>
+
+<tr>
+    <td>
+          &nbsp; <b> Ch 12: Linear Regression and Correlation </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 12.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 12.2</b> The Correlation Coefficient &nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox"><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lecture Slides - Correlation </a> &nbsp; <i class="fas fa-file-lines"></i>   
+    </td>
+    <td>
+    <b> No assignment for today </b>
+    </td> 
+</tr>
+  <tr>
+    <td>
+    &nbsp; <b> Ch 12: Linear Regression and Correlation </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 12.3</b> The Fitted Regression Line &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 12.4</b> Parametric Interpretation of Regression: The Linear Model &nbsp; <i class="fas fa-book-open"></i>    
+    &nbsp;<input type="checkbox"> <b> Sec. 12.5</b> Statistical Inference Concerning $\beta_1$ &nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Samuels et al. (2016) 
+    </td>   
+    <td>    
+   &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lab Worksheet"></i> Lecture Slides - 
+   Bivariate Regression </a>&nbsp; <i class="fas fa-file-lines"></i>  
+    </td>
+    <td>
+    <br>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-user"></i> <i class="fas fa-upload"></i> Week 10 Individual Assignment (on CANVAS)
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Fri, Dec 05 </b>
+    </td> 
+    </tr>
+  <tr>
+    <td>
+      &nbsp; <b> Ch 12: Linear Regression and Correlation </b>    
+    &nbsp;<input type="checkbox"> <b> Sec. 12.1</b> Introduction &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 12.2</b> The Correlation Coefficient &nbsp; <i class="fas fa-book-open"></i>   
+        &nbsp;<input type="checkbox"> <b> Sec. 12.3</b> The Fitted Regression Line &nbsp; <i class="fas fa-book-open"></i>   
+    &nbsp;<input type="checkbox"> <b> Sec. 12.4</b> Parametric Interpretation of Regression: The Linear Model &nbsp; <i class="fas fa-book-open"></i>    
+    &nbsp;<input type="checkbox"> <b> Sec. 12.5</b> Statistical Inference Concerning $\beta_1$ &nbsp; <i class="fas fa-book-open"></i>   
+    <br>
+    &nbsp; FROM Samuels et al. (2016)
+    <br>
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lab Slides - Correlation & Bivariate Regression </a> &nbsp; <i class="fas fa-file-lines"></i>   
+    </td>
+    <td>
+    <br>
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 7  
+    <br>
+    <i class="fas fa-clock"></i><b> DUE DATE: Fri, Dec 5 </b>    
+    </td> 
+    </tr>
+  <tr>
+    <td>     
+ALL CHAPTERS!
+    </td>   
+    <td>    
+    &nbsp; <input type="checkbox" /> <a href="" target="_blank"><i aria-hidden="true" title="External Link to Lab Slide" target="_blank"></i> Ungraded Quiz - Google Form  </a> <i class="fas fa-highlighter"></i>   
+    </td>
+    <td> 
+    &nbsp; <input type="checkbox" /> Review your class notes
+ 
 <br>
-Being Worked On &nbsp; <i class="fas fa-hammer"></i>
+    </td>
+    </tr>
+
+</table>
