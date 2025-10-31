@@ -687,13 +687,14 @@ all conveniently organized for your academic journey.
     &nbsp;<input type="checkbox"> <b>Section 8.1:</b> Introduction <i class="fas fa-book-open"></i>  
     &nbsp;<input type="checkbox"> <b>Section 8.2:</b> The Paired-Sample t Test and Confidence Interval <i class="fas fa-book-open"></i>  
     &nbsp;<input type="checkbox"> <b> Section 8.3:</b> The Paired Design  <i class="fas fa-book-open"></i>  
-    &nbsp; FROM Samuels et al. (2016) 
+    &nbsp; FROM 
+    Samuels et al. (2016) 
     </td>
     <td>    
      &nbsp;<input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Lab Slides - Paired Samples t-test </a> &nbsp; <i class="fas fa-file-lines"></i>
     </td>
     <td> 
-    &nbsp;<i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 5  
+    &nbsp;<i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 4  
  
 <br>
     <i class="fas fa-clock"></i><b> DUE DATE: Mon, Nov, 10</b>    
@@ -843,7 +844,7 @@ all conveniently organized for your academic journey.
     </td>
     <td>
     <br>
-     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 6  
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 5  
     <br>
     <i class="fas fa-clock"></i><b> DUE DATE: Mon, Nov 24 </b>    </td> 
     </tr>
@@ -914,7 +915,7 @@ all conveniently organized for your academic journey.
     </td>
     <td>
     <br>
-     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 7  
+     &nbsp;<input type="checkbox" /> <i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 6  
     <br>
     <i class="fas fa-clock"></i><b> DUE DATE: Fri, Dec 5 </b>    
     </td> 
