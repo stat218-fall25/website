@@ -635,7 +635,7 @@ all conveniently organized for your academic journey.
     &nbsp; FROM Samuels et al. (2016)    
     </td>
     <td> 
-    &nbsp; <input type="checkbox" /><a href = ""target="_blank"><i aria-hidden="true" title="External Link to Lecture Slides"></i> Lecture Slides - The Paired Design </a> &nbsp; <i class="fas fa-file-lines"></i>   
+    &nbsp; <input type="checkbox" /><a href = "https://docs.google.com/presentation/d/1QorFCDRkMAESKUs0Qn860gCO3lU8YHP-9g2JE74i1xk/edit?usp=sharing"target="_blank"><i aria-hidden="true" title="External Link to Lecture Slides"></i> Lecture Slides - The Paired Design </a> &nbsp; <i class="fas fa-file-lines"></i>   
     </td>
     <td>
    &nbsp;<i class="fas fa-user"></i> <i class="fas fa-upload"></i> Weekly Assignment 
@@ -656,8 +656,7 @@ all conveniently organized for your academic journey.
     &nbsp; FROM Samuels et al. (2016)    
     </td>
 <td>    
-    &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 6 - Document
- </a><i class="fa-solid fa-magnifying-glass"></i>  
+    &nbsp; <input type="checkbox" /><a href="https://docs.google.com/document/d/1czVPSWOyHPILGlRUvQObBGtjpKcIME5P/copy?usp=sharing&ouid=107969602618040380602&rtpof=true&sd=true" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 6 - Improving Running Speed </a><i class="fa-solid fa-magnifying-glass"></i>  
 </td>
 
 <td>
