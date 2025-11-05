@@ -690,7 +690,7 @@ all conveniently organized for your academic journey.
     Samuels et al. (2016) 
     </td>
     <td>    
-     &nbsp;<input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Lab Slides - Paired Samples t-test </a> &nbsp; <i class="fas fa-file-lines"></i>
+     &nbsp;<input type="checkbox" /><a href="https://stat218-fall25.github.io/slides/07-Week-07/01-Lecture-04/01-Lec-04-Lab-04.html" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide" target="_blank"></i> Lab Slides - Paired Sample t-test </a> &nbsp; <i class="fas fa-file-lines"></i>
     </td>
     <td> 
     &nbsp;<i class="fas fa-users"></i> <i class="fas fa-upload"></i> Lab Assignment 4  
