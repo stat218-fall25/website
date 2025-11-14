@@ -745,7 +745,7 @@ all conveniently organized for your academic journey.
     &nbsp;&nbsp;FROM Diez et al. (2022)   
     </td>
     <td> 
-    &nbsp; <input type="checkbox" /><a href="" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 7 - Comparing Multiple Proportions
+    &nbsp; <input type="checkbox" /><a href="https://docs.google.com/document/d/1TMcMz7bHLSPb5sf7f0aBFIcgK9f2L3v2/copy?usp=drivesdk&ouid=107969602618040380602&rtpof=true&sd=true" target="_blank"><i aria-hidden="true" title="External Link to Investigation document" target="_blank"></i> Investigation 7 - Comparing Multiple Proportions
  </a><i class="fa-solid fa-magnifying-glass"></i>  
 </td>
     </td>
