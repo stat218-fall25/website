@@ -887,8 +887,7 @@ all conveniently organized for your academic journey.
     &nbsp; FROM Samuels et al. (2016) 
     </td>   
     <td>    
-   &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lab Worksheet"></i> Lecture Slides - 
-   Bivariate Regression </a>&nbsp; <i class="fas fa-file-lines"></i>  
+   &nbsp; <input type="checkbox" /><a href = "https://docs.google.com/presentation/d/1PPUGjpxJPR4xcRW17e6ulKsGlV4n6L4P5JcXP-K9JTg/edit?usp=sharing" target="_blank"><i aria-hidden="true" title="External Link to Lab Worksheet"></i> Lecture Slides - Bivariate Regression </a>&nbsp; <i class="fas fa-file-lines"></i>  
     </td>
     <td>
     <br>
