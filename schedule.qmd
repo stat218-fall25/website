@@ -909,7 +909,7 @@ all conveniently organized for your academic journey.
     <br>
     </td>   
     <td>    
-    &nbsp; <input type="checkbox" /><a href = "" target="_blank"><i aria-hidden="true" title="External Link to Lecture Slide"></i> Lab Slides - Correlation & Bivariate Regression </a> &nbsp; <i class="fas fa-file-lines"></i>   
+    &nbsp; <input type="checkbox" /><a href = "https://stat218-fall25.github.io/slides/10-Week-10/03-Lecture-03/01-Presentation/01-Lec-02-Lab-07.html" target="_blank"><i aria-hidden="true" title="External Link to Lab Slides"></i> Lab Slides - Correlation & Bivariate Regression </a> &nbsp; <i class="fas fa-file-lines"></i>   
     </td>
     <td>
     <br>
